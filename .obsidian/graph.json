@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#go  ",
+      "color": {
+        "a": 1,
+        "rgb": 2736127
+      }
+    },
+    {
+      "query": "tag:#excalidraw  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#UML_Diagrams  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.2,
+  "nodeSizeMultiplier": 0.92006237006237,
+  "lineSizeMultiplier": 1.10343035343035,
+  "collapse-forces": false,
+  "centerStrength": 0.333679833679834,
+  "repelStrength": 11.8295218295218,
+  "linkStrength": 0.82016632016632,
+  "linkDistance": 390,
+  "scale": 0.4257269099137403,
+  "close": true
+}
